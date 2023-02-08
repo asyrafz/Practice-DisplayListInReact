@@ -1,0 +1,16 @@
+.item-list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 2rem;
+  font-family: sans-serif;
+}
+
+.item {
+  background-color: #e0e0e0;
+  padding: 1rem;
+  margin: 0.5rem;
+  border-radius: 5px;
+}
